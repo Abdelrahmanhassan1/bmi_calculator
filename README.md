@@ -1,16 +1,13 @@
-# bmi_calculator
+# BMI_Calculator
 
-A new Flutter project.
+<img src="./readme_assets/BMI Calculator.png" alt="BMI Calculator" width="500"/>
 
-## Getting Started
+The BMI calculator that takes in the user's height and weight and calculates their BMI. It also gives a brief description of the user's BMI.
 
-This project is a starting point for a Flutter application.
+## Dependencies
 
-A few resources to get you started if this is your first Flutter project:
+- <a href="https://pub.dev/packages/font_awesome_flutter" target="_blank">Font Awesome</a>
+- <a href="https://pub.dev/packages/google_fonts" target="_blank">google_fonts</a>
+- <a href="https://pub.dev/packages/flutter_launcher_icons" target="_blank">flutter_launcher_icons</a>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
